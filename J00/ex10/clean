@@ -1,0 +1,2 @@
+#!/bin/sh
+find . -xdev \( -name "*~" -o -name "#*#" \) -print -delete

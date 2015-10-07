@@ -1,0 +1,9 @@
+dn: uid=schiad,ou=2015,ou=paris,ou=people,dc=42,dc=fr
+changetype: modify
+add: mobile
+mobile: 0699463181
+-
+replace: mail
+mail: salimdelazup@gmail.com
+-
+
